@@ -1,0 +1,1 @@
+This repo is for Jupyter notbooks developed while working on the July 2022 Tabular Playground Clustering challenge on Kaggle. The notebooks are exploratory in nature and represent a chance to learn and grow, rather than professionaly ready-to-deploy code. 
